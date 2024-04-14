@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    
+}
+.App{
+    font-style: italic;
+    text-align: center;
+}
+.in{
+    padding: 200;
+    margin: 200px;
+    box-sizing: 200px;
+}
